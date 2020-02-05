@@ -169,6 +169,10 @@ class Bands(qels.Scf):
 		self.nature=(True if (least_value_index==largest_value_index) else False)
 		
 
+	def draw_band_structure(self,emax=None,emin=None):
+		print("Drawing Band Structure")
+
+
 	def print_info(self):
 		print("\nSCF INFORMATION")
 		print("\tSCF Name: "+self.name)
