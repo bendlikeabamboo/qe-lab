@@ -1,4 +1,4 @@
-<h2>Quantum ESPRESSO processing tool</h2>
+<h2>qe-lab: A Quantum ESPRESSO post-processing tool</h2>
 
 <b>What can it currently do?</b>
 <ul style="list-style-type:disc;">
