@@ -12,7 +12,7 @@
 </ul>
 <b>What to do in the future?</b>
 <ul style="list-style-type:disc;">
-	<li>connect to a database and be able to save that database</li>
-	<li>Calculation seeker</li>
+	<li>database capabilities</li>
+	<li>calculation seeker</li>
 	<li>user interface</li>
 </ul>
