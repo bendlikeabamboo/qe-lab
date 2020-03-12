@@ -16,3 +16,15 @@
 	<li>calculation seeker</li>
 	<li>user interface</li>
 </ul>
+
+</ul>
+<b>Requirements</b>
+<ul style="list-style-type:disc;">
+	<li>Python (matplotlib, numpy)</li>
+	<li>UNIX like CLI</li>
+</ul>
+<b>Assumptions</b>
+<ul style="list-style-type:disc;">
+	<li>You are in the pw.x scf folder</li>
+	<li>With reference to current directory, "bands.gnu" is located in "./bands/"</li>
+</ul>
