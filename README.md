@@ -27,4 +27,11 @@
 <ul style="list-style-type:disc;">
 	<li>You are in the pw.x scf folder</li>
 	<li>With reference to current directory, "bands.gnu" is located in "./bands/"</li>
+	<li>SCF log file is named as "INPUT"</li>
 </ul>
+
+<b>How to run</b>
+<ol>
+	<li>Go to the pw.x SCF folder</li>
+	<li>run as "python [qelab.py DIRECTORY]/qelab.py"</li>
+</ol>
