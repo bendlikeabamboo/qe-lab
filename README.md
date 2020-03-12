@@ -28,7 +28,7 @@
 <ul style="list-style-type:disc;">
 	<li>You are in the pw.x scf folder</li>
 	<li>With reference to current directory, "bands.gnu" is located in "./bands/"</li>
-	<li>SCF log file is named as "INPUT"</li>
+	<li>SCF log file is named as "LOG"</li>
 </ul>
 
 <b>How to run</b>
